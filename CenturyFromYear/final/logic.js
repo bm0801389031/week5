@@ -9,3 +9,4 @@ const century = year => Math.ceil(year/100)
 
 /*An arrow function expression is a compact alternative to traditional
 function expression, but is limited and can't be used in all situations.
+*/
