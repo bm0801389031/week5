@@ -96,7 +96,7 @@ NUMBERS
 
 ## sixth program
 
-1. 
+6. 
 
 Convert number to reversed array of digits
 
@@ -106,3 +106,25 @@ Example:
 
 348597 => [7,9,5,8,4,3]
 FUNDAMENTALSNUMBERSARRAYS
+
+
+
+## SEVENTH PROGRAM
+
+7.  
+
+ABBREVIATE A TWO WORD NAME
+
+Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.
+
+The output should be two capital letters with a dot separating them.
+
+it should look
+
+Sam Harris => S.H
+
+Patrick Feeney => P.F
+
+FUNDAMENTALS
+STRINGS
+ARRAYS
